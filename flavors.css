@@ -1,0 +1,45 @@
+body {
+  background-color: antiquewhite;
+}
+.title {
+	text-align: center;
+	background-color: palegreen;
+	color: hotpink;
+	border: 5px;
+	display: inline-block;
+	font-size: 20px;
+	padding: 10px;
+	margin-left: 10px;
+	margin-right: 10px;
+  font-family: verdana;
+}
+.letsCenterThisThing {
+	text-align: center;
+}
+#motto {
+	font-style: italic;
+	font-size: 20px;
+	border: 0px;
+	padding: 0px;
+  font-family: verdana;
+}
+nav li {
+	display: inline-block;
+	margin: 10px;
+	text-align: center;
+}
+img {
+  width: 250px;
+  height: auto;
+}
+p {
+  text-align: center;
+  font-family: verdana;
+}
+nav {
+  text-align: center;
+  font-family: verdana;
+}
+h1 {
+  font-family: verdana;
+}
